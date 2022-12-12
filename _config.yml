@@ -1,0 +1,19 @@
+# Site settings
+title: GATE : Globally Agile Trust Environment
+description: A website about my project
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://gate.place" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+
+# Navigation links
+navigation:
+  - text: Home
+    url: /index.html
+  - text: About
+    url: /about.html
+  - text: Contact
+    url: /contact.html
