@@ -6,6 +6,7 @@ url: "https://gate.place" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+theme: hacker
 permalink: pretty
 paginate: 5
 
